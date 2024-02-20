@@ -1,0 +1,12 @@
+Word Dodgeball
+
+Single Player
+- User Story
+    - A random word is displayed on screen
+    - The user can select any letter and replace it with any letter
+    - They can hit the submit button
+        - If the word is the same as the current or previous words, then the user is told they have entered a previously seen word
+        - If the word has never been seen, but is not in the dictionary, then the user is told their submission is not a valid word and must try again.
+        - If the word has never been seen and it is in the dictionary, then the user is told their submission is valid and earns points.
+
+    - The game ends when the player forfeits or time runs out.
